@@ -1,4 +1,4 @@
-# Diplima_work
+# Diploma_work
 Проверки сайта поиска авиабилетов aviasales.ru.
 
 Составлены 5 UI и 5 API проверок, которые храняться соответственно в файлах test\test_ui.py и test\test_api.py. UI тесты были созданы с ипользованием Page Object. Класс MainPage лежит в папке pages_aviasales. Для запуска тестов нужно использовать pytest. UI и API тесты можно запускать как отдельно, так и вместе.
